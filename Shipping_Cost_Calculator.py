@@ -1,4 +1,4 @@
-# Here is a new update by <KrisVitolina>
+# Here is a new update by KrisVitolina
 
 # Shipping Cost Calculator
 
